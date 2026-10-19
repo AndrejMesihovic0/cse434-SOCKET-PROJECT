@@ -1,4 +1,3 @@
-```python
 # DHT manager
 # run it like: python3 manager.py PORT
 
@@ -218,4 +217,3 @@ while True:
         '   states:',
         {p: peers[p]['state'] for p in peers}
     )
-```

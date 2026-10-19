@@ -1,4 +1,3 @@
-```python
 # DHT peer thing
 # use: python3 peer.py MANAGER_IP MANAGER_PORT
 
@@ -475,4 +474,3 @@ for line in sys.stdin:
             print('ERROR:', e)
 
 threading.Event().wait()
-```
